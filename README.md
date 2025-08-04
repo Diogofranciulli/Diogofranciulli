@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Meu nome é Diogo👋</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diogofranciulli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogofranciulli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogofranciulli&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </div>
 
