@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="Amazon Web Services Logo" />
