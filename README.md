@@ -2,9 +2,9 @@
 
 <div align="center">
 <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula&hide_border=true" width="50%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogofranciulli&show_icons=true&theme=dracula&hide_border=true" width="50%" alt="GitHub Stats"/>
 <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula&hide_border=true" width="38%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogofranciulli&layout=compact&theme=dracula&hide_border=true" width="38%" alt="Most Used Languages"/>
 
 </div>
 
