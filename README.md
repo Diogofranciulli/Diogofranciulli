@@ -1,9 +1,11 @@
-<h2 align="center">Olá! Meu nome é Diogo👋</h2>
+<!-- <h2 align="center">Olá! Meu nome é Diogo👋</h2>
 
 <div align="center">
 <!-- GitHub Stats -->
+<!--
   <img src="https://github-readme-stats.vercel.app/api?username=Diogofranciulli&show_icons=true&theme=dracula&hide_border=true" width="50%" alt="GitHub Stats"/>
 <!-- Most Used Languages -->
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogofranciulli&layout=compact&theme=dracula&hide_border=true" width="38%" alt="Most Used Languages"/>
 
 </div>
@@ -44,4 +46,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Diogofranciulli/Diogofranciulli/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
